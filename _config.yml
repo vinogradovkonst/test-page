@@ -1,3 +1,4 @@
-title: "My website!"
-author: "Konstantin V"
-theme: minima
+# title: "My website!"
+# author: "Konstantin V"
+theme: slate
+# theme: minima
