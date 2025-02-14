@@ -1,4 +1,3 @@
-# Welcome to My Test Website
 This is a simple one-page site using GitHub Pages.
 
 ## Some Heading 2
